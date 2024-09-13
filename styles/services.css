@@ -1,0 +1,337 @@
+.services{
+    padding: 2rem;
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+}
+.services h1{
+    color: black;
+    font-size: 50px;
+
+}
+.serv{
+    border: 20px solid white;
+    background-color: lightgrey;
+    text-align: justify;
+    color: grey;
+    font-size: 20px;
+    padding: 2rem;
+    button{
+        cursor:pointer;
+        border-radius: 10px;
+        font-size: 30px;
+        background-color: grey;
+        padding: 10px 10px 10px 10px;
+        font-weight: bold;
+        font-family: serif;
+        color: white;
+    }
+}
+.serv h1{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.serv h2{
+    color: black;
+}
+@media only screen and (max-width: 965px) {
+    .services{
+        text-align: center;
+        img{
+            width: 900px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 945px) {
+    .services{
+        text-align: center;
+        img{
+            width: 880px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 925px) {
+    .services{
+        text-align: center;
+        img{
+            width: 860px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 905px) {
+    .services{
+        text-align: center;
+        img{
+            width: 840px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 885px) {
+    .services{
+        text-align: center;
+        img{
+            width: 820px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 865px) {
+    .services{
+        text-align: center;
+        img{
+            width: 800px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 845px) {
+    .services{
+        text-align: center;
+        img{
+            width: 780px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 825px) {
+    .services{
+        text-align: center;
+        img{
+            width: 760px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 805px) {
+    .services{
+        text-align: center;
+        img{
+            width: 740px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 785px) {
+    .services{
+        text-align: center;
+        img{
+            width: 720px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 765px) {
+    .services{
+        text-align: center;
+        img{
+            width: 700px;
+            height: 400px;
+        }
+    }
+}
+@media only screen and (max-width: 745px) {
+    .services{
+        text-align: center;
+        img{
+            width: 680px;
+            height: 390px;
+        }
+    }
+}
+@media only screen and (max-width: 725px) {
+    .services{
+        text-align: center;
+        img{
+            width: 660px;
+            height: 380px;
+        }
+    }
+}
+@media only screen and (max-width: 705px) {
+    .services{
+        text-align: center;
+        img{
+            width: 640px;
+            height: 370px;
+        }
+    }
+}
+@media only screen and (max-width: 685px) {
+    .services{
+        text-align: center;
+        img{
+            width: 620px;
+            height: 360px;
+        }
+    }
+}
+@media only screen and (max-width: 665px) {
+    .services{
+        text-align: center;
+        img{
+            width: 600px;
+            height: 350px;
+        }
+    }
+}
+@media only screen and (max-width: 645px) {
+    .services{
+        text-align: center;
+        img{
+            width: 580px;
+            height: 340px;
+        }
+    }
+}
+@media only screen and (max-width: 625px) {
+    .services{
+        text-align: center;
+        img{
+            width: 560px;
+            height: 330px;
+        }
+    }
+}
+@media only screen and (max-width: 605px) {
+    .services{
+        text-align: center;
+        img{
+            width: 540px;
+            height: 320px;
+        }
+    }
+}
+@media only screen and (max-width: 585px) {
+    .services{
+        text-align: center;
+        img{
+            width: 520px;
+            height: 310px;
+        }
+    }
+}
+@media only screen and (max-width: 565px) {
+    .services{
+        text-align: center;
+        img{
+            width: 500px;
+            height: 300px;
+        }
+    }
+}
+@media only screen and (max-width: 545px) {
+    .services{
+        text-align: center;
+        img{
+            width: 480px;
+            height: 290px;
+        }
+    }
+}
+@media only screen and (max-width: 525px) {
+    .services{
+        text-align: center;
+        img{
+            width: 460px;
+            height: 280px;
+        }
+    }
+}
+@media only screen and (max-width: 505px) {
+    .services{
+        text-align: center;
+        img{
+            width: 440px;
+            height: 270px;
+        }
+    }
+}
+@media only screen and (max-width: 485px) {
+    .services{
+        text-align: center;
+        img{
+            width: 420px;
+            height: 260px;
+        }
+    }
+}
+@media only screen and (max-width: 465px) {
+    .services{
+        text-align: center;
+        img{
+            width: 400px;
+            height: 250px;
+        }
+    }
+}
+@media only screen and (max-width: 445px) {
+    .services{
+        text-align: center;
+        img{
+            width: 380px;
+            height: 240px;
+        }
+    }
+}
+@media only screen and (max-width: 425px) {
+    .services{
+        text-align: center;
+        img{
+            width: 360px;
+            height: 230px;
+        }
+    }
+}
+@media only screen and (max-width: 405px) {
+    .services{
+        text-align: center;
+        img{
+            width: 340px;
+            height: 220px;
+        }
+    }
+    .serv{
+        border: 0px solid white;
+    }
+}
+@media only screen and (max-width: 385px) {
+    .services{
+        text-align: center;
+        img{
+            width: 320px;
+            height: 210px;
+        }
+    }
+}
+@media only screen and (max-width: 365px) {
+    .services{
+        text-align: center;
+        img{
+            width: 300px;
+            height: 200px;
+        }
+    }
+}
+@media only screen and (max-width: 345px) {
+    .services{
+        text-align: center;
+        img{
+            width: 280px;
+            height: 190px;
+        }
+    }
+}
+@media only screen and (max-width: 325px) {
+    .services{
+        text-align: center;
+        img{
+            width: 260px;
+            height: 180px;
+        }
+    }
+}

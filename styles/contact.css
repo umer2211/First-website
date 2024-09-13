@@ -1,0 +1,97 @@
+.contact {
+    padding: 2rem;
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+}
+.contact h1{
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: serif;
+}
+.form{
+    padding: 2rem;
+    border: 70px solid lightgrey;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+    textarea{
+        font-size: 20px;
+        width: 860px;
+        height: 100px;
+    }
+}
+.form h2{
+    color: black;
+    font-size: 50px;
+    font-family: serif;
+}
+.form h3{
+    color: black;
+    font-family: serif;
+    font-size: 30px;
+}
+.form a{
+    font-size: 20px;
+}
+.detail{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    p{
+        text-align: left;
+        padding: 1rem;
+        input{
+            width: 200px;
+            padding: 5px 10px;
+        }
+    }
+}
+.message{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.button{
+    padding: 50px 10px;
+    display: flex;
+    justify-content: flex-end;
+    button{
+        cursor:pointer;
+        color: white;
+        background-color: #333;
+        font-size: 30px;
+        width: 250px;
+        height: 60px;
+        font-family: serif;
+        font-weight: bold;
+    }
+}
+@media only screen and (max-width: 621px){
+    .form{
+        border: 50px solid lightgrey;
+    }    
+}
+@media only screen and (max-width: 581px){
+    .form{
+        border: 30px solid lightgrey;
+    }    
+}
+@media only screen and (max-width: 541px){
+    .detail{
+        p{
+            input{
+                width: 180px;
+                padding: 5px 10px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 330px){
+    .form{
+        a{
+            font-size: 19px;
+        }
+    }    
+}

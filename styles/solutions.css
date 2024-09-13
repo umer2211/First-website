@@ -1,0 +1,131 @@
+.solutions{
+    background-color: lightgrey;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    .d-one{
+        padding-left: 30px;
+        display: flex;
+        img{
+            width: 400px;
+        }
+    }
+    .d-two{
+        padding-right: 30px;
+        h1{
+            color: black;
+            font-size: 50px;
+            font-weight: bold;
+            font-family: serif;
+        }
+        p{
+            text-align: justify;
+            font-size: 30px;
+            color: grey;
+        }
+    }
+}
+.sol{
+    padding: 2rem;
+    font-size: 30px;
+    color: grey;   
+    text-align: justify; 
+    ul {
+        padding-left: 2rem;
+    }
+}
+.sol h2{
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: serif;
+    display: flex;
+    justify-content: flex-start;
+    img{
+        padding-right: 20px;
+    }
+}
+@media only screen and (max-width: 915px) {
+    .solutions{
+        flex-wrap: wrap;
+        justify-content: center;     
+        .d-one{
+            padding: 0px;
+        }
+        .d-two{
+            padding: 0px;
+        }
+    }
+}
+@media only screen and (max-width: 470px) {
+    .sol h2{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+        border: 2px solid #333;
+        img{
+            display: none;
+        }
+    }
+}
+@media only screen and (max-width: 465px) {
+    .solutions{   
+        .d-one{
+            img{
+                width: 380px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 435px) {
+    .solutions{   
+        .d-one{
+            img{
+                width: 360px;
+            }
+        }
+    }
+    .sol{
+        padding: 1rem;
+    }
+}
+@media only screen and (max-width: 405px) {
+    .solutions{   
+        padding: 1rem;
+        .d-one{
+            img{
+                width: 340px;
+            }
+        }
+    }
+    .sol h2{
+        font-size: 45px;
+    }
+}
+@media only screen and (max-width: 375px) {
+    .solutions{   
+        .d-one{
+            img{
+                width: 320px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 345px) {
+    .solutions{   
+        .d-one{
+            img{
+                width: 300px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 320px) {
+    .solutions{   
+        .d-one{
+            img{
+                width: 280px;
+            }
+        }
+    }
+}
