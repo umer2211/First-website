@@ -6,8 +6,7 @@ In this website all links of pages are given on top in the header and if you cli
 
 There are some buttons "schedule a consultation" if you click them you will jump to the contact page.
 In the contact there are two ways to contact:
-
-        1.   "click on the mail link you can email the company with your personal email." 
+        1.   "click on the mail link you can email the company with your personal email."
         2.   "fill the required details and type your comments in the comment box and submit your response
               by clicking on the send button."  
 
