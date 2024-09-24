@@ -5,7 +5,7 @@ The interface of this website is depends on the resolution of your device becaus
 In this website all links of pages are given on top in the header and if you click on name in the header you will jump to the home page and the same thing is applied on the footer if you cilck on the name you jump to the home page. You can jump to any page from any other page.  
 
 There are some buttons "schedule a consultation" if you click them you will jump to the contact page.
-In the contact there are two ways to contact:
+In the contact page there are two ways to contact:
 
 1.    Click on the mail link you can email the company with your personal email.
 2.    Fill the required details and type your comments in the comment box and submit your response
